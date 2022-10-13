@@ -1,0 +1,161 @@
+.body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+h1 {
+    font-size: 50px;
+    color: dimgrey;
+}
+h2{
+    font-weight: bold;
+    font-size: 30px;
+}
+section {
+    height: 500px;
+    margin-bottom: 120px;
+}
+
+
+
+
+p {
+    font-size: 20px;
+    color: dimgray;
+}
+
+.orange {
+    color: #3EC70B;
+}
+
+.second-section {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    height: 650px;
+}
+
+.flexible {
+    display: flex;
+
+}
+
+
+.half-width {
+    width: 50%;
+}
+
+
+#second-section-img {
+    padding-top: 88px;
+    padding-left: 7%;
+
+
+}
+
+.second-half-width {
+    width: 50%;
+    margin-top: 40px;
+    padding-right: 10px;
+    padding-left: 30px;
+
+}
+
+.second-half-width img {
+    width: 50%;
+}
+
+
+.half-width img {
+    width: 70%;
+}
+
+
+.anchor {
+    text-decoration: none;
+    background-image: linear-gradient(#790252, #E80F88);
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: white;
+}
+
+#skip-diet {
+    margin-left: 80px;
+    margin-top: 80px;
+    padding: 5px;
+}
+
+.my-recipie {
+    text-align: center;
+}
+
+.third-section {
+    width: 100%;
+    height: 800px;
+}
+
+.common-div {
+    width: 100%;
+    height: 500px;
+
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.all-div {
+    width: 20%;
+    margin: 1%;
+    padding: 2%;
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.all-div img {
+    width: 100%;
+
+
+}
+
+.forth-div {
+    width: 76%;
+    height: 200px;
+    margin-top: 1%;
+    margin-left: 11%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px gray;
+}
+
+
+.like-comment {
+    padding-left: 100px;
+    padding-top: 40px;
+    width: 50%;
+
+}
+
+footer {
+    margin: 0;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+}
+
+footer p {
+    color: gray;
+    font-size: 15px;
+}
+
+footer h2 {
+    color: gray;
+    padding-top: 2%;
+
+}
+
+#footer {
+    color: green;
+}
